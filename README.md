@@ -1,4 +1,3 @@
-![Profile Views](https://img.shields.io/badge/Profile%20Views-209-blue)
 
 <h1 style="font-size: 30px;">👋 Welcome to My World 🌌</h1>
 
