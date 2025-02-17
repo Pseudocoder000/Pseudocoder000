@@ -3,14 +3,6 @@
 
 ## Pull Shark Badges
 
-![Pull Shark Bronze](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze-default.png) ![Pull Shark Silver](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver-default.png) ![Pull Shark Gold](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold-default.png)
-
-**Pull Shark Badges History:**
-- **Bronze and Silver unlocked:** First unlocked on Aug 21, 2023
-- **Bronze:** 2nd pull request merged
-- **Silver:** 16th pull request merged
-- **Gold:** 128th pull request merged
-
 I'm a **Computer Science student** on a mission to **build crazy stuff** that pushes the boundaries of creativity and innovation. 🚀  
 
 
